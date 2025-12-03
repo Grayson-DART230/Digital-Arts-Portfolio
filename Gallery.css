@@ -1,0 +1,39 @@
+.container {
+}
+
+.col{
+    border: 2px solid black;
+}
+.col-1 {
+    border: 2px solid black;
+}.col-2 {
+    border: 2px solid black;
+}.col-3 {
+    border: 2px solid black;
+}.col-4 {
+    border: 2px solid black;
+}.col-5 {
+    border: 2px solid black;
+}.col-6 {
+    
+}.col-7 {
+    border: 2px solid black;
+}.col-8 {
+    border: 2px solid black;
+}
+.col-9 {
+    border: 2px solid black;
+}
+.col-10 {
+    border: 2px solid black;
+}
+.col-11 {
+    border: 2px solid black;
+}.col-12 {
+    border: 2px solid black;
+}
+
+.footer {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
