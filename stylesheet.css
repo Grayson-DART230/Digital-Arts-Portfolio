@@ -1,0 +1,52 @@
+.container {
+    background-color: #FFFFFF;
+}
+
+
+h1 {
+    text-align:center;
+    background-color: #080078;
+    color: #FFFFFF;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    text-align:left;
+    background-color: #080078;
+    color: #FFFFFF;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h5 {
+    text-decoration-line: underline;
+    text-underline-position: below;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+.col-md-6 {
+    padding: 25px;
+    
+}
+
+.col-8 {
+    text-align: center;
+}
+
+
+#footer {
+    size: 100px;
+    padding-top: 25px;
+}
+
+#heading{
+    background-color: #080078;
+    padding-top: 5px;
+}
+
+#projectImage{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
